@@ -3,10 +3,11 @@ Servo Motor MG996R (360 Degree)		x1 BDT 580
 Servo Motor SG90			x4 BDT 185x4
 IR Obstacle Sensor			x4 BDT 90 x4
 Bearings                               x10 BDT 500
-Screws				        x4 BDT 30
+PVC pipes				   BDT 70
 PVC board                               x1 BDT 400
 
-TOTAL					   BDT 3060
+
+TOTAL					   BDT 3070
 
 
 Our arduino will control a total of 5 servos, of which 4 will control 4 different mechanical arms and 1 will control the conveyer belt.
